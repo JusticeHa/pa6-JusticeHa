@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "si2QG8PRQKsQLglqa/4FXfnapXjd0TOP1nU/HKnyU+Ne4yjTBsvpCLf4z1txP4bbJOc0luTmzvsVfH5drT2hqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jman4\\source\\repos\\PA6-justiceha\\PA6-justiceha\\PA6-justiceha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jman4\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
